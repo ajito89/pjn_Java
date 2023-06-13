@@ -1,4 +1,4 @@
-package JavaDasar;
+package JavaBasiku;
 
 public class TipeDataLaosPrimitive {
     public static void main(String[] args) {

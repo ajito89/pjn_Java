@@ -1,4 +1,4 @@
-package JavaDasar;
+package JavaBasiku;
 
 import java.util.Scanner;
 

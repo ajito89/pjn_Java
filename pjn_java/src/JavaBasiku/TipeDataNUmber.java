@@ -1,6 +1,4 @@
-package JavaDasar;
-
-import javax.management.timer.TimerMBean;
+package JavaBasiku;
 
 public class TipeDataNUmber {
     public static void main(String[] args) {
