@@ -2,7 +2,7 @@ package JavaBasiku;
 
 import java.util.Scanner;
 
-public class SwitchStatement {
+public class A13SwitchStatement {
     public static void main(String[] args) {
         //switch hanesan ho if maieb nia lebih sederhana
         //ne'e uza deit ba samadengan perbandingan

@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class ForEach {
+public class A19ForEach {
     public static void main(String[] args) {
 
         //Kadang kita biasa mengakses data array menggunakann perulangan

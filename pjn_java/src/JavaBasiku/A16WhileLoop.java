@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class WhileLoop {
+public class A16WhileLoop {
     public static void main(String[] args) {
         //While loop adalah versi perulangan yang lebih sederhana dibanding for loop
         //Di while loop, hanya terdapat kondisi perulangan, tanpa ada init statement dan post statement

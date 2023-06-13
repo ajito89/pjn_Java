@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class MethodParameter {
+public class A21MethodParameter {
     public static void main(String[] args) {
     sayHello("Ajito", "Nelson");
     }

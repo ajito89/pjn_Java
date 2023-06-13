@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class Scope {
+public class A26Scope {
     public static void main(String[] args) {
         //Di Java, variable hanya bisa diakses di dalam area dimana mereka dibuat.
         //Hal ini disebut scope

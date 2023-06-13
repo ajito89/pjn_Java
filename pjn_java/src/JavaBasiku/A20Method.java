@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class Method {
+public class A20Method {
     public static void main(String[] args) {
         sayHelloWorld();
     }

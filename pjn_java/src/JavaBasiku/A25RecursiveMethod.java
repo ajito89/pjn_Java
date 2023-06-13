@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class RecursiveMethod {
+public class A25RecursiveMethod {
     public static void main(String[] args) {
 
         System.out.println(factorial(5));

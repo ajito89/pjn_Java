@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class Break {
+public class A17Break {
     public static void main(String[] args) {
         //break sei hapara hotu
         //continue sei hapara iha parte nee deit pois continua fali parte seluk

@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class Komentar {
+public class A27Komentar {
     public static void main(String[] args) {
 
         /**

@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class TipeDataString {
+public class A4TipeDataString {
     public static void main(String[] args) {
         //kumpilan karakter ka ni laran nee testu
         //uza petik dua

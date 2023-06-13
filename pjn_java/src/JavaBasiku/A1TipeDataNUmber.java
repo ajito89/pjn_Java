@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class TipeDataNUmber {
+public class A1TipeDataNUmber {
     public static void main(String[] args) {
         //integer Number
         // byte, short, int, long

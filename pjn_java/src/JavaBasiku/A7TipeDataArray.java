@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class TipeDataArray {
+public class A7TipeDataArray {
     public static void main(String[] args) {
         //mak hanesan type data ne'ebe ninia laran kompostu husi tipe data ne'ebe hanesan
         //total iha array labele iha mudansa ba primeiru ne'ebe ita halo

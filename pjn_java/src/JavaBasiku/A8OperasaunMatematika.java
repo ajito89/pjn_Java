@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class OperasaunMatematika {
+public class A8OperasaunMatematika {
     public static void main(String[] args) {
         //+ Penjumlahan
         //- Pengurangan

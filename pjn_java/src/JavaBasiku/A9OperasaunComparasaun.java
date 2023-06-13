@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class OperasaunComparasaun {
+public class A9OperasaunComparasaun {
     public static void main(String[] args) {
         int a =10;
         int b = 20;

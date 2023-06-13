@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class MethodReturnValue {
+public class A22MethodReturnValue {
     public static void main(String[] args) {
 
         var result1 = soma(100, 100);

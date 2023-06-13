@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class OperasaunBoolean {
+public class A10OperasaunBoolean {
     public static void main(String[] args) {
         //operasaun ne'ebe uza ba data boolean rua
         int a = 10;

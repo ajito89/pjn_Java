@@ -2,7 +2,7 @@ package JavaBasiku;
 
 import java.util.Scanner;
 
-public class MethodVariableArgument {
+public class A23MethodVariableArgument {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

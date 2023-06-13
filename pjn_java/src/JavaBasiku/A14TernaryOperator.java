@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class TernaryOperator {
+public class A14TernaryOperator {
     public static void main(String[] args) {
         //tenary operator moss hanesan operator simples husi if statment
         //nee terdiri husi kondisaun ne'ebe mak iha evaluasaun karik nia true mak

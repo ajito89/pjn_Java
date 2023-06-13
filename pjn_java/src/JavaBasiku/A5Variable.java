@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class Variable {
+public class A5Variable {
     public static void main(String[] args) {
         //mak fatin ida ne'ebe hodi rai data
         String naran;

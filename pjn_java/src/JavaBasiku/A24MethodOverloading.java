@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class MethodOverloading {
+public class A24MethodOverloading {
     public static void main(String[] args) {
         sayHello();
         sayHello("Ajito");

@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class TipeDataLaosPrimitive {
+public class A6TipeDataLaosPrimitive {
     public static void main(String[] args) {
         //tipe data primitve mak labele ubah lagi
         //tipe data primitive selalu iha default value

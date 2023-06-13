@@ -1,6 +1,6 @@
 package JavaBasiku;
 
-public class IfStatement {
+public class A12IfStatement {
     public static void main(String[] args) {
         var valor = 10;
         var absensia = 75;
